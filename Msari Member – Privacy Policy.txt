@@ -1,0 +1,68 @@
+Msari Member – Privacy Policy
+Effective date: 2026-05-28
+
+This Privacy Policy explains how the Msari Member mobile application (“App”) collects, uses, shares, and protects information when you use the App.
+
+1) Who we are
+App name: Msari Member
+Package name: com.msari.memberapp
+Contact: henrik.palsson@previsions.com
+
+2) Information we collect
+We collect the following information to provide member account access, rewards, vouchers, and transfers:
+Account & profile information
+Member identifier (e.g., Member Number ID), name, and contact details you provide (such as mobile number or email).
+Identity / registration documents
+Photos you upload for registration such as photo ID and selfie.
+Rewards and voucher activity
+Reward points balance, voucher redemption history, reward transfers (sender/receiver IDs), and related transaction timestamps.
+Device / app information
+App version and basic device/network information required for reliability and troubleshooting.
+Camera access
+Used to scan QR codes (for reward transfer / recipient scanning). We do not collect photos from your camera unless you explicitly capture and submit them (e.g., registration documents).
+Local app storage
+The App stores some data on your device (for example, cached vouchers and sync data) to support offline use.
+
+3) How we use your information
+We use your information to:
+Create and manage your member account and authenticate you
+Provide rewards features (balance, recent activity)
+Process voucher redemption and reward transfers
+Sync your data between your device and our backend services
+Prevent fraud, abuse, and unauthorized access
+Maintain, troubleshoot, and improve the App
+
+4) How we share your information
+We may share information only as needed to operate the App:
+With our backend service providers / infrastructure used to host and run the Msari Member services (e.g., databases, servers).
+With authorized merchants/staff systems only to support reward/voucher operations tied to your membership.
+For legal reasons if required by law or to protect rights, safety, and security.
+We do not sell your personal information.
+
+5) Data retention
+We keep information only as long as necessary to provide the service, comply with legal obligations, resolve disputes, and enforce agreements. Some transactional records (such as voucher/reward history) may be retained for audit and accounting purposes.
+
+6) Security
+We take reasonable measures to protect your information, including access controls and secure transmission. However, no method of storage or transmission is 100% secure.
+
+7) Your choices and rights
+Depending on your location and applicable law, you may have rights to:
+Access or correct your account information
+Request deletion of your account and related personal data (subject to legal/operational retention needs)
+Withdraw consent where applicable
+To make a request, contact us at: henrik.palsson@previsions.com.
+
+8) Children’s privacy
+The App is intended for general members and is not directed to children under 13. If you believe a child under 13 has provided personal information, contact us and we will take appropriate steps.
+
+9) Third-party services
+The App may use third-party libraries and services for networking, security, and app functionality. These providers may process limited data as required to provide their services.
+
+10) Changes to this policy
+We may update this Privacy Policy from time to time. We will update the “Effective date” and, if changes are significant, provide additional notice as required.
+
+11) Contact us
+If you have questions about this Privacy Policy, contact:
+
+Email: henrik.palsson@previsions.com
+Company/Developer: Previsions Software Limited
